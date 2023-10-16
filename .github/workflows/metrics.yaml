@@ -27,7 +27,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 6
-          user: IamRezaMousavi
+          user: MahdiBaghbani
       
       - name: Achievements detailed display
         uses: lowlighter/metrics@latest
