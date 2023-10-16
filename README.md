@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-<h1 align="center">A (n almost Nerd) Software Engineer</h1>
+<h1 align="center">A Software Engineer</h1>
 <div align="center">
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=a8b9cc)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust)
