@@ -25,6 +25,5 @@
 
 ![User Metrics](./images/user-metrics.svg)
 ![Most Used Languages](./images/most-used-languages.svg)
-![Achievements Detailed](./images/achievements-detailed.svg)
 
 </div>
